@@ -2,6 +2,6 @@ services:
   - type: web
     name: laravel-app
     env: docker
-    plan: free
+    plan: free  
     buildCommand: ""
     startCommand: ""
