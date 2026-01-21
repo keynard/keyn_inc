@@ -525,7 +525,7 @@
         <div class="container">
             <div class="row g-4">
                 <div class="col-md-3">
-                    <p class="mb-3">Keyn Inc. © 2024</p>
+                    <p class="mb-3">Keyn Inc. © 2026</p>
                     <div class="d-flex gap-3 mb-4">
                         <a href="#" class="social-icon">f</a>
                         <a href="#" class="social-icon">in</a>
